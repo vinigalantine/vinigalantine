@@ -4,22 +4,17 @@
   <img src="assets/michael.gif" alt="Welcome GIF" width="300"/> 
 </p>
 
-# Vinícius Leal Galantine <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="35" height="35" alt="Microsoft Certified Fundamentals Badge">
+## 💼 Full-Stack Software Engineer @ Avanade
 
-### 💼 Full-Stack Software Engineer @ Avanade | 📍 Ireland 🇮🇪
+<p align="center">
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="100" alt="Microsoft Certified Fundamentals Badge">
+</p>
+
 [![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-0064b5?logo=microsoftazure&style=flat-square)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/ACF9DE1F521F4E02?sharingId=90BDC98736C2E4D3) [![Azure AI Fundamentals](https://img.shields.io/badge/Azure%20AI%20Fundamentals-AI--900-0064b5?logo=microsoftazure&style=flat-square)](LINK_TO_YOUR_AI-900_CERTIFICATION_IF_AVAILABLE)
 
 ![Portuguese - Native (C2)](https://img.shields.io/badge/Portuguese%20-%20Native%20(C2)-blue?style=flat-square)
 ![English - C1](https://img.shields.io/badge/English-C1-darkgreen?style=flat-square)
 ![Spanish - C1](https://img.shields.io/badge/Espa%C3%B1ol-C1-darkgreen?style=flat-square)
-
-<p>
-  <a href="https://www.linkedin.com/in/your_linkedin_username">
-    <img src="assets/InBug-Black.png" alt="LinkedIn" width="20" style="vertical-align: middle;"> 
-    <span style="vertical-align: middle;">in/your_linkedin_username</span>
-  </a>
-</p>
-
 
 ![C#](https://img.shields.io/badge/C%23-5C2D91?logo=sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
