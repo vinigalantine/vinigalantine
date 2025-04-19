@@ -4,16 +4,7 @@
   <img src="assets/michael.gif" alt="Welcome GIF" width="300"/> 
 </p>
 
-<table>
-  <tr>
-      <td style="font-size: 40px;vertical-align: middle;">
-        Vinícius Leal Galantine
-      </td>
-      <td style="vertical-align: middle;">
-        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="50" height="50">
-      </td>
-  </tr>
-</table>
+# Vinícius Leal Galantine <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="35" height="35" alt="Microsoft Certified Fundamentals Badge">
 
 ### 💼 Full-Stack Software Engineer @ Avanade | 📍 Ireland 🇮🇪
 [![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-0064b5?logo=microsoftazure&style=flat-square)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/ACF9DE1F521F4E02?sharingId=90BDC98736C2E4D3) [![Azure AI Fundamentals](https://img.shields.io/badge/Azure%20AI%20Fundamentals-AI--900-0064b5?logo=microsoftazure&style=flat-square)](LINK_TO_YOUR_AI-900_CERTIFICATION_IF_AVAILABLE)
@@ -66,7 +57,7 @@ Here's a summary of my technical expertise:
 
 ## 💻 Professional Experience
 
-**Full-Stack Software Engineer @ Avanade** (Feb 2021 - Present)
+### **Full-Stack Software Engineer @ Avanade** (Feb 2021 - Present)
 
 - Involved in full-cycle development using modern frameworks and cloud platforms.
 - Developed and maintained scalable backend services and responsive frontends.
@@ -74,19 +65,19 @@ Here's a summary of my technical expertise:
 - Gained significant experience with Cloud (Azure) and Microsoft products, CI/CD, Microservices, and non-relational databases.
 - **Technologies used:** C#, Java, Python, PHP, JavaScript, SQL, HTML, CSS, XML, .NET, ASP.NET Core, Entity Framework Core, jQuery, Bootstrap, Materialize, SQL Server, MySQL, Oracle, MongoDB, PostgreSQL, Git, Azure, Azure DevOps, Docker, RESTful APIs, Agile/Scrum, CI/CD, Microservices, DDD, UX/UI, JSON.
 
-**Junior Full-Stack Developer @ Diefra Engenharia** (Oct 2019 - Sep 2020)
+### **Junior Full-Stack Developer @ Diefra Engenharia** (Oct 2019 - Sep 2020)
 
 - Worked on web application bug fixes and assisted in database optimization and frontend improvements.
 - Played a key role in enhancing legacy applications.
 - **Technologies used:** Java, Oracle, jQuery, Bootstrap, OOP, TDD, UX/UI.
 
-**Full-Stack Developer Intern @ DanBtec8** (Jun 2019 - Oct 2019)
+### **Full-Stack Developer Intern @ DanBtec8** (Jun 2019 - Oct 2019)
 
 - Contributed to developing client-focused web solutions, built RESTful APIs, and UX-focused applications.
 - Played a key role in application architecture and led a small development team.
 - **Technologies used:** PHP, Python, JavaScript, SQL, HTML, CSS, Laravel, jQuery, Bootstrap, Materialize, Git, MySQL, RESTful APIs, Agile/Scrum, CI/CD pipelines, TDD, OOP, UX/UI, JSON.
 
-**Full-Stack Developer Intern @ Araujo Fontes** (Mar 2018 - Apr 2019)
+### **Full-Stack Developer Intern @ Araujo Fontes** (Mar 2018 - Apr 2019)
 
 - Gained hands-on experience with backend/frontend tasks and supported testing/debugging.
 - Developed foundational knowledge in databases.
