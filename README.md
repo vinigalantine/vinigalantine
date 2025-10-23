@@ -7,13 +7,14 @@
 ## 💼 Full-Stack Software Engineer @ Avanade
 
 <p align="center">
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg?branch=main" width="100" alt="Microsoft Certified Associate Badge">
   <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" width="100" alt="Microsoft Certified Fundamentals Badge">
 </p>
 
-[![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-0064b5?logo=microsoftazure&style=flat-square)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/ACF9DE1F521F4E02?sharingId=90BDC98736C2E4D3) [![Azure AI Fundamentals](https://img.shields.io/badge/Azure%20AI%20Fundamentals-AI--900-0064b5?logo=microsoftazure&style=flat-square)](LINK_TO_YOUR_AI-900_CERTIFICATION_IF_AVAILABLE)
+[![Azure Developer Associate](https://img.shields.io/badge/Azure%20Developer%20Associate-AZ--204-0064b5?logo=microsoftazure&style=flat-square)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/5613792F461079E7?sharingId=90BDC98736C2E4D3) [![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-0064b5?logo=microsoftazure&style=flat-square)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/ACF9DE1F521F4E02?sharingId=90BDC98736C2E4D3) [![Azure AI Fundamentals](https://img.shields.io/badge/Azure%20AI%20Fundamentals-AI--900-0064b5?logo=microsoftazure&style=flat-square)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/C403EAE037FB8857?sharingId=90BDC98736C2E4D3) [![Azure Data Fundamentals](https://img.shields.io/badge/Azure%20Data%20Fundamentals-DP--900-0064b5?logo=microsoftazure&style=flat-square)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/1D6700A6F2BD251?sharingId=90BDC98736C2E4D3)
 
 ![Portuguese - Native (C2)](https://img.shields.io/badge/Portuguese%20-%20Native%20(C2)-blue?style=flat-square)
-![English - C1](https://img.shields.io/badge/English-C1-darkgreen?style=flat-square)
+![English - Bilingual (C1+)](https://img.shields.io/badge/English-C1+-darkgreen?style=flat-square)
 ![Spanish - C1](https://img.shields.io/badge/Espa%C3%B1ol-C1-darkgreen?style=flat-square)
 
 ![C#](https://img.shields.io/badge/C%23-5C2D91?logo=sharp&logoColor=white)
@@ -85,8 +86,10 @@ Here's a summary of my technical expertise:
 
 ## 📜 Certifications & Courses
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- [Microsoft Certified: Azure Developer Associate (AZ-204)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/5613792F461079E7?sharingId=90BDC98736C2E4D3)
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/ACF9DE1F521F4E02?sharingId=90BDC98736C2E4D3)
+- [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/C403EAE037FB8857?sharingId=90BDC98736C2E4D3)
+- [Microsoft Certified: Azure Data Fundamentals (DP-900)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/1D6700A6F2BD251?sharingId=90BDC98736C2E4D3)
 - Scrum Foundation Professional Certificate (SFPC) - CertiProf
 - Kotlin Workshop - COTEMIG
 - SoloLearn: C#, Python 3, Java
