@@ -14,8 +14,8 @@
 [![Azure Developer Associate](https://img.shields.io/badge/Azure%20Developer%20Associate-AZ--204-0064b5?logo=microsoftazure&style=flat-square)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/5613792F461079E7?sharingId=90BDC98736C2E4D3) [![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-AZ--900-0064b5?logo=microsoftazure&style=flat-square)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/ACF9DE1F521F4E02?sharingId=90BDC98736C2E4D3) [![Azure AI Fundamentals](https://img.shields.io/badge/Azure%20AI%20Fundamentals-AI--900-0064b5?logo=microsoftazure&style=flat-square)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/C403EAE037FB8857?sharingId=90BDC98736C2E4D3) [![Azure Data Fundamentals](https://img.shields.io/badge/Azure%20Data%20Fundamentals-DP--900-0064b5?logo=microsoftazure&style=flat-square)](https://learn.microsoft.com/api/credentials/share/en-us/vinicius-galantine/1D6700A6F2BD251?sharingId=90BDC98736C2E4D3)
 
 ![Portuguese - Native (C2)](https://img.shields.io/badge/Portuguese%20-%20Native%20(C2)-blue?style=flat-square)
-![English - Bilingual (C1+)](https://img.shields.io/badge/English-C1+-darkgreen?style=flat-square)
-![Spanish - C1](https://img.shields.io/badge/Espa%C3%B1ol-C1-darkgreen?style=flat-square)
+![English - Bilingual (C1+)](https://img.shields.io/badge/English-Bilingual%20(C1+)-darkgreen?style=flat-square)
+![Spanish - Advanced (C1)](https://img.shields.io/badge/Espa%C3%B1ol-Advanced%20(C1)-darkgreen?style=flat-square)
 
 ![C#](https://img.shields.io/badge/C%23-5C2D91?logo=sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)
@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a highly motivated and adaptable **Full-Stack Software Engineer** based in Cork, Ireland, with 6 years of experience delivering scalable and efficient solutions.
+I'm a highly motivated and adaptable **Cloud & Full-Stack Software Engineer** based in Cork, Ireland, with 6 years of experience delivering scalable and efficient solutions.
 
 - 🚀 Passionate about continuous learning, innovation, and crafting high-quality UX/UI experiences.
 - 💡 Known for thriving under pressure, collaborating effectively in Agile teams, and quickly adapting to new technologies to solve complex problems.
@@ -39,8 +39,6 @@ I'm a highly motivated and adaptable **Full-Stack Software Engineer** based in C
 - ☁️ Experienced in full-cycle development using modern frameworks and cloud platforms, particularly Azure and Microsoft products.
 
 ## 🛠️ Technical Skills
-
-Here's a summary of my technical expertise:
 
 - **Languages:** C#, Java, Python, PHP, Typescript, JavaScript, SQL, HTML, CSS, Dart, XML
 - **Frameworks/Libraries:** .NET, ASP.NET Core, Entity Framework Core, Node.js, Angular, Express, Laravel, Flutter, jQuery, Bootstrap, Materialize
@@ -53,7 +51,7 @@ Here's a summary of my technical expertise:
 
 ## 💻 Professional Experience
 
-### **Full-Stack Software Engineer @ Avanade** (Feb 2021 - Present)
+### **Cloud & Full-Stack Software Engineer @ Avanade** (Feb 2021 - Present)
 
 - Involved in full-cycle development using modern frameworks and cloud platforms.
 - Developed and maintained scalable backend services and responsive frontends.
